@@ -6,7 +6,7 @@
 
 ### Core
 
-![Core](https://skillicons.dev/icons?i=js,typescript,go,php,python,solidity,nodejs,deno,flutter&perline=3)
+![Core](https://skillicons.dev/icons?i=js,typescript,go,php,python,solidity,nodejs,deno&perline=3)
 
 ### Frontend
 
